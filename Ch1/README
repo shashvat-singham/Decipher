@@ -1,0 +1,6 @@
+To run the code you will need a quadgram file. We couldn't submit it in the submission folder because
+moodle doesn't allow submissions more than 1MB size.
+
+Download quadgram file from:
+http://practicalcryptography.com/cryptanalysis/letter-frequencies-various-languages/english-letter-frequencies/#quadgram-frequencies
+and put it in the same folder as decryption codes. Name it as quadgrams.txt

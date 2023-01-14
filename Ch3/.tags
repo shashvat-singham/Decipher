@@ -1,0 +1,28 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+shift_word	/home/nikhil/CS641/Ch3/sub_perm_decrypt.py	/^def shift_word(alphabet, shift):$/;"	function	line:12
+caesar	/home/nikhil/CS641/Ch3/sub_perm_decrypt.py	/^def caesar(text, shift):$/;"	function	line:21
+read_dictionary	/home/nikhil/CS641/Ch3/sub_perm_decrypt.py	/^def read_dictionary(file_name):$/;"	function	line:28
+calculate_accuracy	/home/nikhil/CS641/Ch3/sub_perm_decrypt.py	/^def calculate_accuracy(text, dictionary):$/;"	function	line:36
+frequency_list	/home/nikhil/CS641/Ch3/sub_perm_decrypt.py	/^def frequency_list(message):$/;"	function	line:48
+single_letters	/home/nikhil/CS641/Ch3/sub_perm_decrypt.py	/^def single_letters(message):$/;"	function	line:63
+double_letters	/home/nikhil/CS641/Ch3/sub_perm_decrypt.py	/^def double_letters(message):$/;"	function	line:71
+three_letters	/home/nikhil/CS641/Ch3/sub_perm_decrypt.py	/^def three_letters(message):$/;"	function	line:79
+n_most_frequent	/home/nikhil/CS641/Ch3/sub_perm_decrypt.py	/^def n_most_frequent(mapping, n):$/;"	function	line:94
+decrypt_substitution	/home/nikhil/CS641/Ch3/sub_perm_decrypt.py	/^def decrypt_substitution(encrypted_message, mapping):$/;"	function	line:111
+read_quadgram	/home/nikhil/CS641/Ch3/sub_perm_decrypt.py	/^def read_quadgram(file):$/;"	function	line:126
+quadgram_score	/home/nikhil/CS641/Ch3/sub_perm_decrypt.py	/^def quadgram_score(text, quadgram):$/;"	function	line:144
+improve_mapping	/home/nikhil/CS641/Ch3/sub_perm_decrypt.py	/^def improve_mapping(encrypted_message, mapping, dictionary, frozen_indices):$/;"	function	line:161
+substitution	/home/nikhil/CS641/Ch3/sub_perm_decrypt.py	/^def substitution(encrypted_message, dictionary):$/;"	function	line:210
+encrypted_message	/home/nikhil/CS641/Ch3/sub_perm_decrypt.py	/^    encrypted_message = "wklsalq rf acrd nxoe hxle el wwlodld wl qcu dsvlgkx dbualq axdjoxxi cj qxl lrec. il scrso, sjo fsjo xhfu rs wklsaxci qjl eblde xj crp qsdn wl qcu lyxe msafsf. qbl dcxrxq af ncl qssl pmj ed sxhhud sxrc uqv. oxjf qsl pcisn hxjs qcoq exeh erq ulv rvq rf ncl qsxld. mq ervho lskp upv s rsxxnise, jr jlcd qdsf ysjfra! qs ia qcrrdic, vbqsk lcd bsldorah: etj_hzvrm_sr"$/;"	variable	line:262
+dictionary	/home/nikhil/CS641/Ch3/sub_perm_decrypt.py	/^    dictionary = read_dictionary('american-english')$/;"	variable	line:263
+decryption	/home/nikhil/CS641/Ch3/sub_perm_decrypt.py	/^        decryption = caesar(encrypted_message, shift)$/;"	variable	line:265
+rearrange	/home/nikhil/CS641/Ch3/decrypt.py	/^def rearrange(cipher, perm_key):$/;"	function	line:10
+solve	/home/nikhil/CS641/Ch3/decrypt.py	/^def solve(perms):$/;"	function	line:31
+main_list	/home/nikhil/CS641/Ch3/decrypt.py	/^    main_list = [0, 1, 2, 3, 4]$/;"	variable	line:44
+all_perms	/home/nikhil/CS641/Ch3/decrypt.py	/^    all_perms = list(permutations([2,3,4]))$/;"	variable	line:45
+all_perms	/home/nikhil/CS641/Ch3/decrypt.py	/^    all_perms = [[0]+list(i)+[1] for i in all_perms]$/;"	variable	line:46
